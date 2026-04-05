@@ -12,6 +12,11 @@ Program ini merupakan simulasi traffic light untuk penyeberangan pejalan kaki me
 - Setelah rangkaian selesai, sistem kembali ke **kondisi awal** dan siap menerima penekanan tombol berikutnya.
 
 ## Demo
+Uploading Screen Recording 2026-04-05 192453.mp4…
+
+
+
+
 
 
 ## Link Tinkercad
